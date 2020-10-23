@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SupLeoGao.github.io</id>
     <title>Leo&apos;s Blog</title>
-    <updated>2020-05-07T05:28:21.842Z</updated>
+    <updated>2020-10-23T11:33:25.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SupLeoGao.github.io"/>
     <link rel="self" href="https://SupLeoGao.github.io/atom.xml"/>
@@ -11,13 +11,15 @@
     <icon>https://SupLeoGao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Leo&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[2020-05-01]]></title>
-        <id>https://SupLeoGao.github.io/2020-05-01/</id>
-        <link href="https://SupLeoGao.github.io/2020-05-01/">
+        <title type="html"><![CDATA[BOSS直聘“数据分析”岗位分析（爬虫篇）]]></title>
+        <id>https://SupLeoGao.github.io/取数/</id>
+        <link href="https://SupLeoGao.github.io/取数/">
         </link>
         <updated>2020-05-01T11:51:08.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://SupLeoGao.github.io/post-images/1588829096386.jpg" alt="" loading="lazy"><br>
-成功创建自己的博客，在这里将见证一个少年的成长与进步。故不积跬步，无以至千里；不积小流，无以成江海。愿历尽千帆，归来仍是少年。</p>
+        <content type="html"><![CDATA[<p>由于近期正寻找数据分析相关工作，于是对boss直聘中有关数据分析岗位的招聘信息也成为了我第一个分析实战项目，接下来我会通过爬取和数据清洗两部分。</p>
+<p>由于急需转行没有多余时间去学习使用python语言爬取，据了解后期大部分时间都是在研究如何应对反爬机制，所以决定放在日后工作中进行学习，于是我使用了后羿采集器来爬取，也算是事半功倍了。<br>
+采集后的信息如下图：<br>
+<img src="https://SupLeoGao.github.io/post-images/1603452669645.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
