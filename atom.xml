@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SupLeoGao.github.io</id>
     <title>Leo&apos;s Blog</title>
-    <updated>2020-10-31T10:13:21.027Z</updated>
+    <updated>2020-10-31T10:14:39.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SupLeoGao.github.io"/>
     <link rel="self" href="https://SupLeoGao.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://SupLeoGao.github.io/crossin-de-bian-cheng-jiao-shi-zuo-ye-1031-shu-ru-yu-shu-chu/">
         </link>
         <updated>2020-10-31T09:44:32.000Z</updated>
-        <content type="html"><![CDATA[<p>经历了无数次从入门到放弃的过程，尝尽了失败的痛苦，由于这次是为了转行而下定决心一定要学习python，希望这次不会让自己失望！<br>
+        <content type="html"><![CDATA[<p>经历了无数次从入门到放弃的过程，尝尽了失败的痛苦，由于这次是为了转行而下定决心要学习python，希望这次不会让自己失望！<br>
 1、安装，哈哈没想到我的学习是从3.9版本开始的，起了个大早缺赶了个晚集，好在也算是赶上3.0时代的尾巴。<br>
 <img src="https://SupLeoGao.github.io/post-images/1604138177057.png" alt="" loading="lazy"></p>
 <p>2、print输出，来吧向Python的世界里发出第一声啼哭。<br>
